@@ -4,3 +4,6 @@
 [submodule "Gamolf-FMX-Game-Starter-Kit"]
 	path = Gamolf-FMX-Game-Starter-Kit
 	url = https://github.com/DeveloppeurPascal/Gamolf-FMX-Game-Starter-Kit.git
+[submodule "Delphi-Projects-Template"]
+	path = Delphi-Projects-Template
+	url = https://github.com/DeveloppeurPascal/Delphi-Projects-Template
