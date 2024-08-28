@@ -10,3 +10,6 @@
 [submodule "GitHubPages-Learning-Resources-Template"]
 	path = GitHubPages-Learning-Resources-Template
 	url = https://github.com/DeveloppeurPascal/GitHubPages-Learning-Resources-Template
+[submodule "Delphi-Formations-Template"]
+	path = Delphi-Formations-Template
+	url = https://github.com/DeveloppeurPascal/Delphi-Formations-Template.git
