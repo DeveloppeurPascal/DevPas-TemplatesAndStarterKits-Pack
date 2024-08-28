@@ -7,3 +7,6 @@
 [submodule "Delphi-Projects-Template"]
 	path = Delphi-Projects-Template
 	url = https://github.com/DeveloppeurPascal/Delphi-Projects-Template
+[submodule "GitHubPages-Learning-Resources-Template"]
+	path = GitHubPages-Learning-Resources-Template
+	url = https://github.com/DeveloppeurPascal/GitHubPages-Learning-Resources-Template
