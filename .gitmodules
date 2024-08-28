@@ -1,3 +1,6 @@
 [submodule "FMX-Tools-Starter-Kit"]
 	path = FMX-Tools-Starter-Kit
 	url = https://github.com/DeveloppeurPascal/FMX-Tools-Starter-Kit.git
+[submodule "Gamolf-FMX-Game-Starter-Kit"]
+	path = Gamolf-FMX-Game-Starter-Kit
+	url = https://github.com/DeveloppeurPascal/Gamolf-FMX-Game-Starter-Kit.git
