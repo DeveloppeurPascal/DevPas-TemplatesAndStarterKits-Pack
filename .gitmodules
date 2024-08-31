@@ -13,3 +13,6 @@
 [submodule "Delphi-Formations-Template"]
 	path = Delphi-Formations-Template
 	url = https://github.com/DeveloppeurPascal/Delphi-Formations-Template.git
+[submodule "VCL-Tools-Starter-Kit"]
+	path = VCL-Tools-Starter-Kit
+	url = https://github.com/DeveloppeurPascal/VCL-Tools-Starter-Kit.git
