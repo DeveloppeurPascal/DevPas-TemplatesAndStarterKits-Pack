@@ -1,12 +1,10 @@
-# Tous les modèles de dépôt de code et kits de démarrage de projets de DeveloppeurPascal en un seul dépôt
+# Pack de modèles de dépôts de code et kits de démarrages
 
 [This page in English.](README.md)
 
-Ensemble des codes sources des modèles de dpôts de code et kits de démarrage de projets diffusés sur [mon compte GitHub](https://github.com/DeveloppeurPascal). Ils sont essentiellement programmés en Delphi.
+Ce dépôt contient un ensemble de projets sous forme de sous-module. Vous pouvez tous les télécharger en une fois puis les consulter ou utiliser selon leurs licences respectives.
 
-Certains ont été développés [en direct sur Twitch](https://www.twitch.tv/patrickpremartin) lors de sessions de game coding. Vous pouvez en voir [les rediffusions sur Serial Streameur](https://serialstreameur.fr/.
-
-Ce dépôt de code contient des projets développés en langage Pascal Objet sous Delphi. Vous ne savez pas ce qu'est Dephi ni où le télécharger ? Vous en saurez plus [sur ce site web](https://delphi-resources.developpeur-pascal.fr/).
+Vous pouvez aussi consulter [les autres packs de projets](https://github.com/DeveloppeurPascal?tab=repositories&q=pack&type=&language=&sort=) de [mon compte GitHub](https://github.com/DeveloppeurPascal) ou [celui](https://github.com/DeveloppeurPascal/_AllProjects) qui les contient tous.
 
 ## Présentations et conférences
 
@@ -14,7 +12,7 @@ Ce dépôt de code contient des projets développés en langage Pascal Objet sou
 
 Suivez mes streams de développement de logiciels, jeux vidéo, applications mobiles et sites web sur [ma chaîne Twitch](https://www.twitch.tv/patrickpremartin) ou en rediffusion sur [Serial Streameur](https://serialstreameur.fr) la plupart du temps en français.
 
-## Installation
+## Installation des codes sources
 
 Si vous téléchargez un fichier ZIP depuis GitHub il sera vide. Vous devez utiliser la commande "git" ou une interface utilisateur dédiée pour cloner ou dupliquer ce dépôt et ses sous-modules.
 
@@ -33,15 +31,28 @@ git submodule update --remote
 
 [Ce dépôt de code](https://github.com/DeveloppeurPascal/DevPas-TemplatesAndStarterKits-Pack) et tous ses sous-projets sont disponibles sur [mon compte GitHub](https://github.com/DeveloppeurPascal).
 
-## Licence
+## Licence d'utilisation de ce dépôt de code et de son contenu
 
-Ce projet est sous licence MIT. Ce n'est pas le cas de mes autres projets. Regardez leurs fichiers LICENSE et README.md (ou LISEZMOI.md) avant de faire des bêtises.
+Ces codes sources sont distribués sous licence [AGPL 3.0 ou ultérieure](https://choosealicense.com/licenses/agpl-3.0/).
+
+Vous êtes globalement libre d'utiliser le contenu de ce dépôt de code n'importe où à condition :
+* d'en faire mention dans vos projets
+* de diffuser les modifications apportées aux fichiers fournis dans ce projet sous licence AGPL (en y laissant les mentions de copyright d'origine (auteur, lien vers ce dépôt, licence) obligatoirement complétées par les vôtres)
+* de diffuser les codes sources de vos créations sous licence AGPL
+
+Si cette licence ne convient pas à vos besoins vous pouvez acheter un droit d'utilisation de ce projet sous la licence [Apache License 2.0](https://choosealicense.com/licenses/apache-2.0/) ou une licence commerciale dédiée ([contactez l'auteur](https://developpeur-pascal.fr/nous-contacter.php) pour discuter de vos besoins).
+
+Ces codes sources sont fournis en l'état sans garantie d'aucune sorte.
+
+Certains éléments inclus dans ce dépôt peuvent dépendre de droits d'utilisation de tiers (images, sons, ...). Ils ne sont pas réutilisables dans vos projets sauf mention contraire.
 
 ## Comment demander une nouvelle fonctionnalité, signaler un bogue ou une faille de sécurité ?
 
 Si vous voulez une réponse du propriétaire de ce dépôt la meilleure façon de procéder pour demander une nouvelle fonctionnalité ou signaler une anomalie est d'aller sur [le dépôt de code sur GitHub](https://github.com/DeveloppeurPascal/DevPas-TemplatesAndStarterKits-Pack) et [d'ouvrir un ticket](https://github.com/DeveloppeurPascal/DevPas-TemplatesAndStarterKits-Pack/issues).
 
 Si vous avez trouvé une faille de sécurité n'en parlez pas en public avant qu'un correctif n'ait été déployé ou soit disponible. [Contactez l'auteur du dépôt en privé](https://developpeur-pascal.fr/nous-contacter.php) pour expliquer votre trouvaille.
+
+Vous pouvez aussi cloner ce dépôt de code et participer à ses évolutions en soumettant vos modifications si vous le désirez. Lisez les explications dans le fichier [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Supportez ce projet et son auteur
 
@@ -55,17 +66,3 @@ Vous pouvez utiliser l'un de ces services :
 * [Paypal](https://www.paypal.com/paypalme/patrickpremartin)
 
 ou si vous parlez français vous pouvez [vous abonner à Zone Abo](https://zone-abo.fr/nos-abonnements.php) sur une base mensuelle ou annuelle et avoir en plus accès à de nombreuses ressources en ligne (vidéos et articles).
-
-## Packs de projets
-
-Afin de me simplifier les sauvegardes du compte GitHub ou l'installation locale de projets je propose plusieurs packs de dépôts thématiques. Vous pouvez les utiliser pour télécharger les projets concernés et les consulter. Il est probable qu'ils ne soient pas compilables tels quels mais ça vous donnera une idée des projets open sources disponibles sur [mon compte GitHub](https://github.com/DeveloppeurPascal) et vous pourrez toujours y accéder directement.
-
-* [jeux vidéos](https://github.com/DeveloppeurPascal/DevPas-Games-Pack)
-* [utilitaires et applications mobiles](https://github.com/DeveloppeurPascal/DevPas-WorkingPrograms-Pack)
-* [librairies et composants](https://github.com/DeveloppeurPascal/DevPas-Components-Pack)
-* [modèles de dépôts de code et kits de démarrage de projets](https://github.com/DeveloppeurPascal/DevPas-TemplatesAndStarterKits-Pack)
-* [l'intégralité des projets publics de mon compte](https://github.com/DeveloppeurPascal/_AllProjects)
-
-Pour préparer mon environnement de travail de développeur Delphi sur un nouvel ordinateur ou une nouvelle VM sous Windows j'ai également prévu [un script d'installation](https://github.com/DeveloppeurPascal/__MyMinimalDependenciesForWorkingWithDelphi). Vous pouvez l'utiliser tel quel ou vous en inspirer si vous utilisez mes librairies ou composants.
-
-Si vous êtes plutôt à la recherche d'exemples et de démos pour savoir comment utiliser certaines fonctionnalités de Delphi regardez [ce dépôt de code](https://github.com/DeveloppeurPascal/Delphi-samples) et [sa liste d'autres dépôts d'exemples](https://github.com/DeveloppeurPascal/Delphi-samples/blob/main/OtherDelphiSampleRepositories.md).
