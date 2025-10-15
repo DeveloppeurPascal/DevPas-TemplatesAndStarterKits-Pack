@@ -4,9 +4,6 @@
 [submodule "Gamolf-FMX-Game-Starter-Kit"]
 	path = Gamolf-FMX-Game-Starter-Kit
 	url = https://github.com/DeveloppeurPascal/Gamolf-FMX-Game-Starter-Kit.git
-[submodule "Delphi-Projects-Template"]
-	path = Delphi-Projects-Template
-	url = https://github.com/DeveloppeurPascal/Delphi-Projects-Template
 [submodule "GitHubPages-Learning-Resources-Template"]
 	path = GitHubPages-Learning-Resources-Template
 	url = https://github.com/DeveloppeurPascal/GitHubPages-Learning-Resources-Template
@@ -16,6 +13,3 @@
 [submodule "VCL-Tools-Starter-Kit"]
 	path = VCL-Tools-Starter-Kit
 	url = https://github.com/DeveloppeurPascal/VCL-Tools-Starter-Kit.git
-[submodule "Web-Projects-Template"]
-	path = Web-Projects-Template
-	url = https://github.com/DeveloppeurPascal/Web-Projects-Template.git
