@@ -25,3 +25,6 @@
 [submodule "Delphi-Projects-Template-On-GitHub"]
 	path = Delphi-Projects-Template-On-GitHub
 	url = https://github.com/DeveloppeurPascal/Delphi-Projects-Template.git
+[submodule "Game-Template-For-Delphi-FireMonkey"]
+	path = Game-Template-For-Delphi-FireMonkey
+	url = https://codeberg.org/DeveloppeurPascal/Game-Template-For-Delphi-FireMonkey.git
