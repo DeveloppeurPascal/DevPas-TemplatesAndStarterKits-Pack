@@ -15,10 +15,10 @@
 	url = https://github.com/DeveloppeurPascal/VCL-Tools-Starter-Kit.git
 [submodule "Delphi-Projects-Template-On-Codeberg"]
 	path = Delphi-Projects-Template-On-Codeberg
-	url = https://codeberg.org/PatrickPremartin/Delphi-Projects-Template.git
+	url = https://codeberg.org/DeveloppeurPascal/Delphi-Projects-Template.git
 [submodule "Web-Projects-Template-On-Codeberg"]
 	path = Web-Projects-Template-On-Codeberg
-	url = https://codeberg.org/PatrickPremartin/Web-Projects-Template.git
+	url = https://codeberg.org/TrucsDevWeb/Web-Projects-Template.git
 [submodule "Web-Projects-Template-On-GitHub"]
 	path = Web-Projects-Template-On-GitHub
 	url = https://github.com/DeveloppeurPascal/Web-Projects-Template.git
