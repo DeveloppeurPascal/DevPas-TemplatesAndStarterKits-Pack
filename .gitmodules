@@ -28,3 +28,6 @@
 [submodule "Tools-Template-for-Delphi-FireMonkey"]
 	path = Tools-Template-for-Delphi-FireMonkey
 	url = https://codeberg.org/DeveloppeurPascal/Tools-Template-for-Delphi-FireMonkey.git
+[submodule "FMX-Tools-Starter-Kit"]
+	path = FMX-Tools-Starter-Kit
+	url = ssh://git@codeberg.org/DeveloppeurPascal/FMX-Tools-Starter-Kit.git
