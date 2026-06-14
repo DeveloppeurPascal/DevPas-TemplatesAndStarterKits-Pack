@@ -1,6 +1,3 @@
-[submodule "Gamolf-FMX-Game-Starter-Kit"]
-	path = Gamolf-FMX-Game-Starter-Kit
-	url = https://github.com/DeveloppeurPascal/Gamolf-FMX-Game-Starter-Kit.git
 [submodule "GitHubPages-Learning-Resources-Template"]
 	path = GitHubPages-Learning-Resources-Template
 	url = https://github.com/DeveloppeurPascal/GitHubPages-Learning-Resources-Template
